@@ -1,0 +1,6 @@
+fichier.txt est extrait de Wikinews.
+
+Les articles de Wikinews sont sous licence CC BY 2.5 : https://creativecommons.org/licenses/by/2.5/
+
+Lien vers l'article d'origine :
+https://fr.wikinews.org/wiki/France_:_un_homme_mis_en_examen_par_le_parquet_de_Cr%C3%A9teil_apr%C3%A8s_la_mort_de_son_fr%C3%A8re?dpl_id=90208
